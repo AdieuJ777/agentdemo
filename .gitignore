@@ -1,0 +1,28 @@
+# 敏感信息 - 绝不上传
+.env
+
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+
+# 运行时生成的文件
+bitcoin_app.py
+
+# 日志
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
